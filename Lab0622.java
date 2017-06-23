@@ -144,3 +144,4 @@ public class Telphone {
 				" cpu: "+cpu+" mem: "+mem+" Telphone有发短信的功能！");
 	}
 }
+
