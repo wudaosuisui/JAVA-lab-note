@@ -18,7 +18,8 @@ class Person{
 	}
 }
 class Teacher extends Person{
-	
+	System.out.println("override");
+	System.out.println("Teacher display");
 }
 
 /*练习1
